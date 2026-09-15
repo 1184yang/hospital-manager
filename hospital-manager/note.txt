@@ -1,0 +1,2 @@
+// build exe
+go build -ldflags "-H=windowsgui" -o 健康日曆管理系統.exe main.go
